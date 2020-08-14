@@ -1,16 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b8a3071-9ec7-4f6b-866b-9b8376f8b605" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g6gpYcW12I4VEnNZxDllYq54MS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="jdk.selected.JAVA_MODULE" value="13.0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optimizer.Main" />
+      <module name="Travel-Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optimizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optimizer.TravelAlgorithm" />
+      <module name="Travel-Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optimizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TravelAlgorithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b8a3071-9ec7-4f6b-866b-9b8376f8b605" name="Default Changelist" comment="" />
+      <created>1597440639309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597440639309</updated>
+      <workItem from="1597440643048" duration="520000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Setup">
+      <created>1597440681566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597440681566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Setup" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="38" key="CommitChangelistDialog2" timestamp="1597441479833">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="296" y="38" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597441479833" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1597441445080">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597441445080" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1597441445079">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597441445079" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1597441445079">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597441445079" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1597441445080">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597441445080" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1597441305913">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1597441305913" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1597440688223">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597440688223" />
+    <state x="114" y="56" key="new project wizard" timestamp="1597441301828">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="114" y="56" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1597441301828" />
   </component>
 </project>
