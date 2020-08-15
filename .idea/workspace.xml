@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b8a3071-9ec7-4f6b-866b-9b8376f8b605" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel-Algorithm/Travel-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/Travel-Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travel-Algorithm/src/optimizer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/src/optimizer/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Travel-Algorithm/src/optimizer/TravelAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Travel-Algorithm/src/optimizer/TravelAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +56,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Travel-Algorithm" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -86,7 +112,7 @@
       <workItem from="1597460977889" duration="10000" />
       <workItem from="1597460992781" duration="341000" />
       <workItem from="1597461337676" duration="14000" />
-      <workItem from="1597461358223" duration="1029000" />
+      <workItem from="1597461358223" duration="6360000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Setup">
       <created>1597440681566</created>
@@ -109,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597461847403</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create Javadoc for TravelAlgorithm">
+      <created>1597463891323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597463891323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,46 +152,61 @@
     <MESSAGE value="Initial Setup" />
     <MESSAGE value="Create Class Outline" />
     <MESSAGE value="Create AirTicketClass and Outline of Algorithm Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create AirTicketClass and Outline of Algorithm Method" />
+    <MESSAGE value="Create Javadoc for TravelAlgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Javadoc for TravelAlgorithm" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Project_Structure" timestamp="1597478039047">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="99" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1597478039047" />
     <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1597461793741">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1597461793741" />
-    <state x="296" y="38" key="CommitChangelistDialog2" timestamp="1597461847247">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="296" y="38" key="CommitChangelistDialog2" timestamp="1597526032036">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="296" y="38" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597441486913" />
+    <state x="296" y="38" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1597463891222" />
     <state x="296" y="38" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1597461847247" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1597441844383">
+    <state x="296" y="38" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1597526032036" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1597525864277">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597479856870" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1597525864277" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1597525864276">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597479856869" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1597525864276" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1597525864275">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597479856869" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1597525864275" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1597525864276">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597479856870" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1597525864276" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1597523105338">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1597478169080" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1597523105338" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1597463913791">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1597441844383" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1597441844382">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1597441844382" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1597441844382">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1597441844382" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1597441844382">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1597441844382" />
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor" timestamp="1597441305913">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1597441305913" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1597461848935">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597441493520" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1597463913791" />
     <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1597461848935" />
-    <state x="114" y="56" key="new project wizard" timestamp="1597460983532">
+    <state x="114" y="56" key="new project wizard" timestamp="1597478007934">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="114" y="56" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1597460983532" />
+    <state x="114" y="56" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1597478007934" />
+    <state x="385" y="84" width="670" height="676" key="search.everywhere.popup" timestamp="1597522634328">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="84" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1597522634328" />
   </component>
 </project>
